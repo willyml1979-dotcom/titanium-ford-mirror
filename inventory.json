@@ -1,6 +1,6 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-09-26T12:03:07",
+  "generated_at": "2026-10-08T14:53:24",
   "vehicle_count": 211,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,13 +19,16 @@
       "year": 2016,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 Honda HR-V EX | All-Wheel Drive | Fuel Efficient | Cruise Controlin Surrey",
       "vin": "3CZRU6H59GM108164",
       "stock": "NUMBER",
       "color": "Purple",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/3b384d888608.html",
       "source_url": "https://www.titaniumford.ca/used/2016-Honda-HR_V-id14071780.html",
       "dealer_url": "https://www.titaniumford.ca/used/2016-Honda-HR_V-id14071780.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -35,8 +38,10 @@
       "odometer_km": 156945,
       "year": 2016,
       "make": "Honda",
-      "model": "HR-V EX",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 Honda HR-V ",
@@ -52,7 +57,9 @@
       "year": 2016,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Ford F-150 ",
@@ -68,7 +75,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz AMG GLE 63 2017 Mercedes-Benz GLE63S SUV with 5.5L V8, AWD, and premium safety features. Surrey, BC.in Surrey",
@@ -85,7 +94,9 @@
       "year": 2017,
       "make": "Mercedes-Benz",
       "model": "AMG GLE 63 2017 Mercedes-Benz GLE63S SUV with 5.5L V8, AWD, and premium safety features. Surrey, BC.in Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Audi Q5 ",
@@ -101,7 +112,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Ford F-150 ",
@@ -117,13 +130,16 @@
       "year": 2018,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Sierra 1500 4WD Crew Cab Denali | 6.2-litre V8 engine | Denali Ultimate Package | Enhanced Driver Alert Packagein Surrey",
       "vin": "3GTU2PEJ3JG192324",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Denali",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/3d1ca1f96dc9.html",
       "source_url": "https://www.titaniumford.ca/used/2018-GMC-Sierra_1500-id13978145.html",
       "dealer_url": "https://www.titaniumford.ca/used/2018-GMC-Sierra_1500-id13978145.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -133,8 +149,10 @@
       "odometer_km": 98750,
       "year": 2018,
       "make": "GMC",
-      "model": "Sierra 1500 4WD Crew Cab Denali",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Sierra 1500 ",
@@ -150,7 +168,9 @@
       "year": 2018,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Civic ",
@@ -166,13 +186,16 @@
       "year": 2018,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Transit Connect Van XLT w/Single Sliding Door | Rear parking aid sensor | Engine block heaterin Surrey",
       "vin": "NM0LS7T23K1417720",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van XLT",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/f64bbda45b4f.html",
       "source_url": "https://www.titaniumford.ca/used/2019-Ford-Transit_Connect_Van-id14071778.html",
       "dealer_url": "https://www.titaniumford.ca/used/2019-Ford-Transit_Connect_Van-id14071778.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -182,14 +205,17 @@
       "odometer_km": 151260,
       "year": 2019,
       "make": "Ford",
-      "model": "Transit Connect Van XLT w/Single Sliding Door",
-      "condition": "used"
+      "model": "Transit Connect",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Transit Connect Van ",
       "vin": "NM0LS7T23K1417720",
       "stock": 14071778,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/6ac487a7c248.html",
       "source_url": "https://www.titaniumford.ca/used/2019-Ford-Transit_Connect_Van.html",
       "dealer_url": "https://www.titaniumford.ca/used/2019-Ford-Transit_Connect_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -198,14 +224,17 @@
       "price_currency": "CAD",
       "year": 2019,
       "make": "Ford",
-      "model": "Transit Connect Van",
-      "condition": "used"
+      "model": "Transit Connect",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 MINI Countryman Cooper S ALL4 | Heated front seats | Dual moonroofs | Back-up camera | Smart device integrationin Surrey",
       "vin": "WMZYT5C56K3G90419",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Cooper S ALL4",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/dca4208bb2e8.html",
       "source_url": "https://www.titaniumford.ca/used/2019-MINI-Countryman-id14084197.html",
       "dealer_url": "https://www.titaniumford.ca/used/2019-MINI-Countryman-id14084197.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -215,8 +244,10 @@
       "odometer_km": 133002,
       "year": 2019,
       "make": "MINI",
-      "model": "Countryman Cooper S ALL4",
-      "condition": "used"
+      "model": "Countryman",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 MINI Countryman ",
@@ -232,7 +263,9 @@
       "year": 2019,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -248,7 +281,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 GMC Savana ",
@@ -264,7 +299,9 @@
       "year": 2020,
       "make": "GMC",
       "model": "Savana",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Honda Clarity Plug-in Hybrid ",
@@ -280,13 +317,16 @@
       "year": 2020,
       "make": "Honda",
       "model": "Clarity Plug-in Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Tacoma 4x4 Access Cab Auto | Adaptive Cruise Control | Lane Departure Warningin Surrey",
       "vin": "5TFSZ5AN7LX226795",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Access Auto",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/430126a0f45b.html",
       "source_url": "https://www.titaniumford.ca/used/2020-Toyota-Tacoma-id13984678.html",
       "dealer_url": "https://www.titaniumford.ca/used/2020-Toyota-Tacoma-id13984678.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -296,8 +336,10 @@
       "odometer_km": 126024,
       "year": 2020,
       "make": "Toyota",
-      "model": "Tacoma 4x4 Access Cab Auto",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Tacoma ",
@@ -313,7 +355,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Audi Q7 ",
@@ -329,7 +373,9 @@
       "year": 2021,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Chrysler Grand Caravan ",
@@ -345,13 +391,16 @@
       "year": 2021,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 LARIAT 4WD SuperCrew | Lariat Chrome Appearance Package | B&O audio systemin Surrey",
       "vin": "1FTEW1EPXMKD39259",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LARIAT",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/82e625366407.html",
       "source_url": "https://www.titaniumford.ca/used/2021-Ford-F_150-id14005345.html",
       "dealer_url": "https://www.titaniumford.ca/used/2021-Ford-F_150-id14005345.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -361,8 +410,10 @@
       "odometer_km": 77750,
       "year": 2021,
       "make": "Ford",
-      "model": "F-150 LARIAT 4WD SuperCrew",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 ",
@@ -378,7 +429,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 Hybrid ",
@@ -394,13 +447,16 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150 Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Mustang Mach-E Select AWD | Comfort and Appearance Package | Memory driver seat and side mirrorsin Surrey",
       "vin": "3FMTK1SS0MMA49709",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Select",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/a0cb92aafc48.html",
       "source_url": "https://www.titaniumford.ca/used/2021-Ford-Mustang_Mach_E-id14157939.html",
       "dealer_url": "https://www.titaniumford.ca/used/2021-Ford-Mustang_Mach_E-id14157939.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,8 +466,10 @@
       "odometer_km": 89730,
       "year": 2021,
       "make": "Ford",
-      "model": "Mustang Mach-E Select AWD",
-      "condition": "used"
+      "model": "Mustang Mach-E",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Mustang Mach-E ",
@@ -427,13 +485,16 @@
       "year": 2021,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT7MED83194",
       "stock": 14297513,
       "color": "White",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/e4669e8a6aa5.html",
       "source_url": "https://www.titaniumford.ca/used/2021-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/used/2021-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -442,14 +503,17 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Transit Cargo Van T-250 148\" Hi Rf 9070 GVWR RWD | All-wheel drive | BLIS with cross-traffic alert | Reverse camerain Surrey",
       "vin": "1FTBR3U86MKA68491",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Van T-250 148\" Hi Rf 9070 GVWR",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/efde4faa4c0b.html",
       "source_url": "https://www.titaniumford.ca/used/2021-Ford-Transit_Cargo_Van-id14161376.html",
       "dealer_url": "https://www.titaniumford.ca/used/2021-Ford-Transit_Cargo_Van-id14161376.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -459,14 +523,17 @@
       "odometer_km": 97527,
       "year": 2021,
       "make": "Ford",
-      "model": "Transit Cargo Van T-250 148\" Hi Rf 9070 GVWR RWD",
-      "condition": "used"
+      "model": "Transit Cargo",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Transit Cargo Van ",
       "vin": "1FTBR3U86MKA68491",
       "stock": 14161376,
       "color": "Black",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/6b56b96d175c.html",
       "source_url": "https://www.titaniumford.ca/used/2021-Ford-Transit_Cargo_Van.html",
       "dealer_url": "https://www.titaniumford.ca/used/2021-Ford-Transit_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -475,8 +542,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "Ford",
-      "model": "Transit Cargo Van",
-      "condition": "used"
+      "model": "Transit Cargo",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 ",
@@ -492,7 +561,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -508,13 +579,16 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 Hybrid Limited 4WD SuperCrew | 3.5-litre PowerBoost Full V6 | Twin-panel moonroof | B&O audio systemin Surrey",
       "vin": "1FTFW1ED2NFB07680",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/6162bd16f7c1.html",
       "source_url": "https://www.titaniumford.ca/used/2022-Ford-F_150_Hybrid-id14121331.html",
       "dealer_url": "https://www.titaniumford.ca/used/2022-Ford-F_150_Hybrid-id14121331.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -524,8 +598,10 @@
       "odometer_km": 106337,
       "year": 2022,
       "make": "Ford",
-      "model": "F-150 Hybrid Limited 4WD SuperCrew",
-      "condition": "used"
+      "model": "F-150 Hybrid",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 Hybrid ",
@@ -541,7 +617,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150 Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 Lightning ",
@@ -557,7 +635,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150 Lightning",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Ranger ",
@@ -573,13 +653,16 @@
       "year": 2022,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Super Duty F-350 SRW Platinum 4WD Crew Cab | 6.7-litre Power Stroke V8 Diesel | Twin-panel Moonroofin Surrey",
       "vin": "1FT8W3BT1NEC52795",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "F-350 SRW Platinum",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/e80fee18fd29.html",
       "source_url": "https://www.titaniumford.ca/used/2022-Ford-Super_Duty_F_350_SRW-id14040469.html",
       "dealer_url": "https://www.titaniumford.ca/used/2022-Ford-Super_Duty_F_350_SRW-id14040469.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -589,14 +672,17 @@
       "odometer_km": 131232,
       "year": 2022,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW Platinum 4WD Crew Cab",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT1NEC52795",
       "stock": 14040469,
       "color": "White",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/1b5bb7124de5.html",
       "source_url": "https://www.titaniumford.ca/used/2022-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/used/2022-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -605,8 +691,10 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Transit Connect Wagon ",
@@ -622,7 +710,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Transit Connect Wagon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -638,7 +728,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 Hybrid ",
@@ -654,7 +746,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150 Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 Lightning ",
@@ -670,7 +764,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150 Lightning",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 1500 Crew Cab Short Box 4-Wheel Drive SLT | 3.0-litre Duramax Turbo-Diesel enginein Surrey",
@@ -687,7 +783,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive SLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 1500 ",
@@ -703,13 +801,16 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Navigator Reserve 4x4 | Heated and ventilated front seats | Second row captain's seats with consolein Surrey",
       "vin": "5LMJJ3LT4NEL02905",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Reserve",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/705124ad0c78.html",
       "source_url": "https://www.titaniumford.ca/used/2022-Lincoln-Navigator-id14104109.html",
       "dealer_url": "https://www.titaniumford.ca/used/2022-Lincoln-Navigator-id14104109.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -719,8 +820,10 @@
       "odometer_km": 87004,
       "year": 2022,
       "make": "Lincoln",
-      "model": "Navigator Reserve 4x4",
-      "condition": "used"
+      "model": "Navigator",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Navigator ",
@@ -736,7 +839,9 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Navigator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Massimo Buck 450in Surrey",
@@ -751,7 +856,9 @@
       "year": 2022,
       "make": "Massimo",
       "model": "Buck 450in Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Massimo Buck 450 ",
@@ -765,7 +872,9 @@
       "year": 2022,
       "make": "Massimo",
       "model": "Buck 450",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Rogue ",
@@ -781,7 +890,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 ODESS DESERTCROSS 1000-6 HVACin Surrey",
@@ -796,7 +907,9 @@
       "year": 2022,
       "make": "ODESS",
       "model": "DESERTCROSS 1000-6 HVACin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 ODESS DESERTCROSS 1000-6 HVAC ",
@@ -810,13 +923,16 @@
       "year": 2022,
       "make": "ODESS",
       "model": "DESERTCROSS 1000-6 HVAC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota RAV4 Limited AWD | Toyota Safety Sense 2.0 | Heated front seats | Blind Spot Monitorin Surrey",
       "vin": "2T3D1RFV0NW276266",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/fcd79aa6412e.html",
       "source_url": "https://www.titaniumford.ca/used/2022-Toyota-RAV4-id14066405.html",
       "dealer_url": "https://www.titaniumford.ca/used/2022-Toyota-RAV4-id14066405.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -826,8 +942,10 @@
       "odometer_km": 42312,
       "year": 2022,
       "make": "Toyota",
-      "model": "RAV4 Limited AWD",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota RAV4 ",
@@ -843,7 +961,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Tahoe ",
@@ -859,7 +979,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Tahoe ",
@@ -875,13 +997,16 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Wildtrak 4 Door Advanced 4x4 | Sasquatch Package with front and rear locking differentialsin Surrey",
       "vin": "1FMEE5DP9PLB03465",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Wildtrak 4 Door Advanced",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/49a67e6a37cb.html",
       "source_url": "https://www.titaniumford.ca/used/2023-Ford-Bronco-id14104108.html",
       "dealer_url": "https://www.titaniumford.ca/used/2023-Ford-Bronco-id14104108.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -891,8 +1016,10 @@
       "odometer_km": 77743,
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco Wildtrak 4 Door Advanced 4x4",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco ",
@@ -908,7 +1035,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -924,7 +1053,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Escape ",
@@ -940,7 +1071,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -956,7 +1089,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 Hybrid ",
@@ -972,7 +1107,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150 Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 Lightning ",
@@ -988,13 +1125,16 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150 Lightning",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT7PEC39293",
       "stock": 14206638,
       "color": "White",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/f15cd0f8d770.html",
       "source_url": "https://www.titaniumford.ca/used/2023-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/used/2023-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1003,8 +1143,10 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco ",
@@ -1020,7 +1162,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -1036,7 +1180,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Escape ",
@@ -1052,7 +1198,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -1068,7 +1216,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 Hybrid ",
@@ -1084,7 +1234,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150 Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 Lightning ",
@@ -1100,13 +1252,16 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150 Lightning",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT7PEC39293",
       "stock": 14206638,
       "color": "White",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f15cd0f8d770.html",
       "source_url": "https://www.titaniumford.ca/used/2023-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/used/2023-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1115,8 +1270,10 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee ",
@@ -1132,7 +1289,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee ",
@@ -1148,7 +1307,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Land Rover Defender 110 X Dynamic SE AWD, \" Automatic emergency braking \" Blind spot monitoring \" Lane keep assistin Surrey",
@@ -1165,7 +1326,9 @@
       "year": 2023,
       "make": "Land",
       "model": "Rover Defender 110 X Dynamic SE AWD, \" Automatic emergency braking \" Blind spot monitoring \" Lane keep assistin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Segway FUGLEMANin Surrey",
@@ -1180,7 +1343,9 @@
       "year": 2023,
       "make": "Segway",
       "model": "FUGLEMANin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Segway FUGLEMANin Surrey",
@@ -1195,7 +1360,9 @@
       "year": 2023,
       "make": "Segway",
       "model": "FUGLEMANin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Segway FUGLEMAN ",
@@ -1209,7 +1376,9 @@
       "year": 2023,
       "make": "Segway",
       "model": "FUGLEMAN",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Corolla Hybrid ",
@@ -1225,13 +1394,16 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Corolla Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Express Cargo Van ",
       "vin": "1GCWGAF78R1120801",
       "stock": 14206674,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/82a2fe10500b.html",
       "source_url": "https://www.titaniumford.ca/used/2024-Chevrolet-Express_Cargo_Van.html",
       "dealer_url": "https://www.titaniumford.ca/used/2024-Chevrolet-Express_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1240,14 +1412,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Express Cargo Van",
-      "condition": "used"
+      "model": "Express",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Express Cargo Van ",
       "vin": "1GCWGAF78R1120801",
       "stock": 14206674,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/82a2fe10500b.html",
       "source_url": "https://www.titaniumford.ca/used/2024-Chevrolet-Express_Cargo_Van.html",
       "dealer_url": "https://www.titaniumford.ca/used/2024-Chevrolet-Express_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1256,14 +1431,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Express Cargo Van",
-      "condition": "new"
+      "model": "Express",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK5RR205959",
       "stock": 14215571,
       "color": "Redeye (PR6)",
+      "trim": "Daytona",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/1218e1712630.html",
       "source_url": "https://www.titaniumford.ca/used/2024-Dodge-Charger_Daytona.html",
       "dealer_url": "https://www.titaniumford.ca/used/2024-Dodge-Charger_Daytona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1272,14 +1450,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona",
-      "condition": "used"
+      "model": "Charger",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK5RR205959",
       "stock": 14215571,
       "color": "Redeye (PR6)",
+      "trim": "Daytona",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1218e1712630.html",
       "source_url": "https://www.titaniumford.ca/used/2024-Dodge-Charger_Daytona.html",
       "dealer_url": "https://www.titaniumford.ca/used/2024-Dodge-Charger_Daytona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1288,14 +1469,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona",
-      "condition": "new"
+      "model": "Charger",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Big Bend 4 Door 4x4 | Front row heated seats | Ford Co-Pilot360 driver assistin Surrey",
       "vin": "1FMDE7BH0RLA34459",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Big Bend 4 Door",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/df224e0405f8.html",
       "source_url": "https://www.titaniumford.ca/used/2024-Ford-Bronco-id14096969.html",
       "dealer_url": "https://www.titaniumford.ca/used/2024-Ford-Bronco-id14096969.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1305,8 +1489,10 @@
       "odometer_km": 39701,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Big Bend 4 Door 4x4",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -1322,13 +1508,16 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 Hybrid Platinum 4WD SuperCrew | 3.5-litre PowerBoost Full V6 | BlueCruise | 360-degree camera systemin Surrey",
       "vin": "1FTFW7LD2RFB21719",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/5d15f3ebe582.html",
       "source_url": "https://www.titaniumford.ca/used/2024-Ford-F_150_Hybrid-id14152527.html",
       "dealer_url": "https://www.titaniumford.ca/used/2024-Ford-F_150_Hybrid-id14152527.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1338,8 +1527,10 @@
       "odometer_km": 27819,
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 Hybrid Platinum 4WD SuperCrew",
-      "condition": "used"
+      "model": "F-150 Hybrid",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 Hybrid ",
@@ -1355,7 +1546,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150 Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Mustang Mach-E ",
@@ -1371,13 +1564,16 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Transit Passenger Wagon 2024 Ford T-350 Medium roof | Titanium Ford, Surrey, B.Cin Surrey",
       "vin": "1FBAX2C80RKA56071",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "2024 Ford T-350 Medium roof",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/4ce995f88c52.html",
       "source_url": "https://www.titaniumford.ca/used/2024-Ford-Transit_Passenger_Wagon-id13837060.html",
       "dealer_url": "https://www.titaniumford.ca/used/2024-Ford-Transit_Passenger_Wagon-id13837060.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1387,8 +1583,10 @@
       "odometer_km": 16582,
       "year": 2024,
       "make": "Ford",
-      "model": "Transit Passenger Wagon 2024 Ford T-350 Medium roof",
-      "condition": "used"
+      "model": "Transit",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Transit Passenger Wagon ",
@@ -1404,7 +1602,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Transit Passenger Wagon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -1420,7 +1620,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 Hybrid ",
@@ -1436,7 +1638,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150 Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Mustang Mach-E ",
@@ -1452,7 +1656,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Transit Passenger Wagon ",
@@ -1468,7 +1674,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Transit Passenger Wagon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 ",
@@ -1484,7 +1692,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 ",
@@ -1500,7 +1710,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic ",
@@ -1516,7 +1728,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic ",
@@ -1532,13 +1746,16 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Tesla Model 3 RWD *Ltd Avail* | Panoramic glass roof | Wireless phone charger | LFP battery, 100% daily chargingin Surrey",
       "vin": "LRW3E7FA8RC100315",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "*Ltd Avail*",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/09ae94720c71.html",
       "source_url": "https://www.titaniumford.ca/used/2024-Tesla-Model_3-id13910855.html",
       "dealer_url": "https://www.titaniumford.ca/used/2024-Tesla-Model_3-id13910855.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1548,8 +1765,10 @@
       "odometer_km": 20619,
       "year": 2024,
       "make": "Tesla",
-      "model": "Model 3 RWD *Ltd Avail*",
-      "condition": "used"
+      "model": "Model 3",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Tesla Model 3 ",
@@ -1565,7 +1784,9 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Tesla Model 3 ",
@@ -1581,7 +1802,9 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 Hybrid ",
@@ -1597,7 +1820,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4 Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 Hybrid ",
@@ -1613,13 +1838,16 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4 Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 Lightning Flash 4WD SuperCrew | 123 kWh extended battery | Heated front seats | BlueCruise equippedin Surrey",
       "vin": "1FT6W3LU6SWG15855",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Flash",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/97d204a50ca2.html",
       "source_url": "https://www.titaniumford.ca/used/2025-Ford-F_150_Lightning-id14061723.html",
       "dealer_url": "https://www.titaniumford.ca/used/2025-Ford-F_150_Lightning-id14061723.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1629,8 +1857,10 @@
       "odometer_km": 17713,
       "year": 2025,
       "make": "Ford",
-      "model": "F-150 Lightning Flash 4WD SuperCrew",
-      "condition": "used"
+      "model": "F-150 Lightning",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 Lightning ",
@@ -1646,13 +1876,16 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150 Lightning",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 Hybrid Platinum 4WD SuperCrew 5.5' Box | PRO POWER ONBOARD - 7.2KWin Surrey",
       "vin": "1FTFW7LD3SFA62024",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Platinum 5.5' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/314d7cdc0558.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-F_150_Hybrid-id12555452.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-F_150_Hybrid-id12555452.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1661,14 +1894,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "F-150 Hybrid Platinum 4WD SuperCrew 5.5' Box",
-      "condition": "new"
+      "model": "F-150 Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 Lightning Platinum 4WD SuperCrew 5.5' Box | BlueCruise Hands-Free Driving | Twin-panel Moonroofin Surrey",
       "vin": "1FT6W7L75SWG25066",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Platinum 5.5' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/a027ce958164.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-F_150_Lightning-id12915680.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-F_150_Lightning-id12915680.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1677,14 +1913,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "F-150 Lightning Platinum 4WD SuperCrew 5.5' Box",
-      "condition": "new"
+      "model": "F-150 Lightning",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Maverick Lariat | BLACK APPEARANCE PKG | SUNROOF | ALL-WHEEL-DRIVEin Surrey",
       "vin": "3FTTW8SA2SRB68872",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/23d2d16036ae.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-Maverick-id13057272.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-Maverick-id13057272.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1693,13 +1932,16 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Maverick Lariat",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Mustang Mach-E Select | ALL-WHEEL-DRIVE | BLUECRUISE | BEAT FUEL PRICES!in Surrey",
       "vin": "3FMTK1S59SMA54091",
       "stock": "NUMBER",
+      "trim": "Select",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/158d59746079.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-Mustang_Mach_E-id13057271.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-Mustang_Mach_E-id13057271.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1708,14 +1950,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Mustang Mach-E Select",
-      "condition": "new"
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Ranger LARIAT 4WD SuperCrew 5' Box | ADVANCED TOWING PKG | BLACK APPEARANCE PKGin Surrey",
       "vin": "1FTER4KH4SLE42433",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "LARIAT",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1a757a665320.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-Ranger-id12957411.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-Ranger-id12957411.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1724,14 +1969,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Ranger LARIAT 4WD SuperCrew 5' Box",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box | HIGH OUTPUT POWERSTROKEin Surrey",
       "vin": "1FT8W3BM7SEC88866",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "F-350 SRW LARIAT 6.75' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1544a176df67.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-Super_Duty_F_350_SRW-id12482079.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2025-Ford-Super_Duty_F_350_SRW-id12482079.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1740,8 +1988,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 Lightning ",
@@ -1757,7 +2007,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150 Lightning",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Canyon ",
@@ -1773,7 +2025,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Canyon ",
@@ -1789,13 +2043,16 @@
       "year": 2025,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz GLE 450e 4MATIC SUV | Forward Collision Warning | Blind Spot Monitoringin Surrey",
       "vin": "4JGFB4GB8SB324609",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "450e 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/cf6e5e191740.html",
       "source_url": "https://www.titaniumford.ca/used/2025-Mercedes_Benz-GLE_450e-id14123769.html",
       "dealer_url": "https://www.titaniumford.ca/used/2025-Mercedes_Benz-GLE_450e-id14123769.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1805,8 +2062,10 @@
       "odometer_km": 23336,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "GLE 450e 4MATIC SUV",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma Hybrid 4x4 Double Cab | Adaptive Cruise Control | Lane Keep Assistin Surrey",
@@ -1823,7 +2082,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma Hybrid 4x4 Double Cab",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma Hybrid ",
@@ -1839,7 +2100,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma Hybrid ",
@@ -1855,7 +2118,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -1871,7 +2136,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -1887,7 +2154,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escapein Surrey",
@@ -1901,11 +2170,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape Hybridin Surrey",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/8f895c62bf3b.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Escape_Hybrid.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Escape_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1914,12 +2186,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape Hybridin Surrey",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape PHEVin Surrey",
       "stock": "NUMBER",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/29464821e338.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Escape_PHEV.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1928,8 +2203,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape PHEVin Surrey",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expeditionin Surrey",
@@ -1943,7 +2220,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -1959,7 +2238,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -1975,11 +2256,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Hybridin Surrey",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/99f933c0572d.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-F_150_Hybrid.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-F_150_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1988,8 +2272,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Hybridin Surrey",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -2005,7 +2291,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick Hybrid ",
@@ -2021,7 +2309,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang ",
@@ -2037,11 +2327,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Surrey",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/58fbfc7342e3.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Mustang_Convertible.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Mustang_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2050,8 +2343,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertiblein Surrey",
-      "condition": "used"
+      "model": "Mustang",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -2067,7 +2362,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -2083,11 +2380,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-250 SRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b1e3ca8254ed.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2096,12 +2396,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-250 SRWin Surrey",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 DRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-350 DRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b83ce32e41d2.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2110,14 +2413,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Surrey",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT6TEF41619",
       "stock": 14166712,
       "color": "White",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c515a3e69a94.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2126,12 +2432,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-450 DRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/58a6d6c413b2.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2140,8 +2449,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Surrey",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -2157,7 +2468,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -2173,7 +2486,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escapein Surrey",
@@ -2187,11 +2502,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape Hybridin Surrey",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/8f895c62bf3b.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Escape_Hybrid.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Escape_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2200,12 +2518,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape Hybridin Surrey",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape PHEVin Surrey",
       "stock": "NUMBER",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/29464821e338.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Escape_PHEV.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2214,8 +2535,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape PHEVin Surrey",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expeditionin Surrey",
@@ -2229,7 +2552,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -2245,7 +2570,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -2261,11 +2588,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Hybridin Surrey",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/99f933c0572d.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-F_150_Hybrid.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-F_150_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2274,8 +2604,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Hybridin Surrey",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -2291,7 +2623,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick Hybrid ",
@@ -2307,7 +2641,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang ",
@@ -2323,11 +2659,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Surrey",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/58fbfc7342e3.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Mustang_Convertible.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Mustang_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2336,8 +2675,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertiblein Surrey",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -2353,7 +2694,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -2369,11 +2712,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-250 SRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/b1e3ca8254ed.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2382,12 +2728,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-250 SRWin Surrey",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 DRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-350 DRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/b83ce32e41d2.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2396,14 +2745,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Surrey",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT6TEF41619",
       "stock": 14166712,
       "color": "White",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c515a3e69a94.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2412,12 +2764,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-450 DRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/58a6d6c413b2.html",
       "source_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2026-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2426,14 +2781,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Surrey",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Badlands 4 Door 4x4 | 2.7 ECOBOOST | PAINTED HARD TOPin Surrey",
       "vin": "1FMEE9BP1TLA44299",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "Badlands 4 Door",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c9f347330287.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Bronco-id13457854.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Bronco-id13457854.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2442,8 +2800,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Badlands 4 Door 4x4",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco 2026 Ford Badlands 4x4 in Avalanche Grey with Sasquatch Package. Off-road ready. Surrey, BC.in Surrey",
@@ -2459,13 +2819,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco 2026 Ford Badlands 4x4 in Avalanche Grey with Sasquatch Package. Off-road ready. Surrey, BC.in Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Badlands 4 Door 4x4 | \" Sasquatch Package, Locking front & rear differentials, LT315/70R17 R/T tiresin Surrey",
       "vin": "1FMEE9BP6TLA75225",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Badlands 4 Door",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/7de0253d6aca.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Bronco-id13751963.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Bronco-id13751963.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2474,8 +2837,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Badlands 4 Door 4x4",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco 2026 Ford Big Bend 4-Door 4x4 in Desert Sand. Sasquatch & Black Diamond Packages, 35\" tires,in Surrey",
@@ -2491,13 +2856,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco 2026 Ford Big Bend 4-Door 4x4 in Desert Sand. Sasquatch & Black Diamond Packages, 35\" tires,in Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 LARIAT 4WD SuperCrew 5.5' Box | BLACK APPEARANCE PKGin Surrey",
       "vin": "1FTFW5L86TFA24571",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LARIAT 5.5' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f68e746b57cc.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13473830.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13473830.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2506,14 +2874,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 LARIAT 4WD SuperCrew 5.5' Box",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | BED UTILITY PACKAGE | 3.5L V6 ECOBOOSTin Surrey",
       "vin": "1FTFW3L85TFA34688",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "XLT 5.5' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/fffb348eee93.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13485523.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13485523.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2522,14 +2893,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLT 4WD SuperCrew 5.5' Box",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | XLT BLACK APPEARANCE PACKAGEin Surrey",
       "vin": "1FTFW3L82TKD51772",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "XLT 5.5' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4317b6ff6b2c.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13535064.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13535064.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2538,14 +2912,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLT 4WD SuperCrew 5.5' Box",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | BLACK APPEARANCE PKG | BED UTILITY PKGin Surrey",
       "vin": "1FTFW3L87TKD55252",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "XLT 5.5' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f71be4b6702c.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13552747.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13552747.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2554,14 +2931,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLT 4WD SuperCrew 5.5' Box",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 2026 Ford Platinum SuperCrew 4x4. Star White, leather, EcoBoost. Titanium Ford, Surrey BC.in Surrey",
       "vin": "1FTFW7L8XTFA89337",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "2026 Ford Platinum . Star White",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/85842215c592.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13683409.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13683409.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2570,8 +2950,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 2026 Ford Platinum SuperCrew 4x4. Star White, leather, EcoBoost. Titanium Ford, Surrey BC.in Surrey",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Avalanche 2026 Lariat SuperCrew 4x4. Premium luxury truck built for BC. Titanium Ford Surrey.in Surrey",
@@ -2587,13 +2969,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 Avalanche 2026 Lariat SuperCrew 4x4. Premium luxury truck built for BC. Titanium Ford Surrey.in Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 2026 Ford Lobo SuperCrew 4x4 with 5.0L V8. Carbonized Grey, black cloth.in Surrey",
       "vin": "1FTEW2L56TFA91218",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "2026 Ford Lobo with V8. Carbonized Grey",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/7dd6dde62e92.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13796710.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150-id13796710.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2602,14 +2987,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 2026 Ford Lobo SuperCrew 4x4 with 5.0L V8. Carbonized Grey, black cloth.in Surrey",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Hybrid King Ranch 4WD SuperCrew 5.5' Box | PRO POWER ONBOARD - 7.2 KWin Surrey",
       "vin": "1FTFW6LD3TFA38351",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "King Ranch 5.5' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d1c243a91197.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150_Hybrid-id13557405.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-F_150_Hybrid-id13557405.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2618,8 +3006,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Hybrid King Ranch 4WD SuperCrew 5.5' Box",
-      "condition": "new"
+      "model": "F-150 Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Hybrid 2026 Ford Lariat SuperCrew 4x4 PowerBoost Hybrid. Star White Metallic.in Surrey",
@@ -2635,13 +3025,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 Hybrid 2026 Ford Lariat SuperCrew 4x4 PowerBoost Hybrid. Star White Metallic.in Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang GT Premium Fastback | 6 SPEED MANUAL | GT Performance Package | Nite Pony Packagein Surrey",
       "vin": "1FA6P8CF9T5403654",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "GT Premium Fastback",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/bcc0117d047d.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Mustang-id13485529.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Mustang-id13485529.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2650,14 +3043,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang GT Premium Fastback",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang GT Fastback | PERFORMANCE PKG | NITE PONY PKG | BLUE SEATBELTSin Surrey",
       "vin": "1FA6P8CF0T5403767",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "GT Fastback",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/5d9f21794875.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Mustang-id13594731.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Mustang-id13594731.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2666,14 +3062,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang GT Fastback",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Dark Horse Fastback | Dark Horse Handling Package | Dark Horse Appearance Package | B&O sound systemin Surrey",
       "vin": "1FA6P8R04T5503468",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Dark Horse Fastback",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/12040c6eaa0a.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Mustang-id13877769.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Mustang-id13877769.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2682,8 +3081,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Dark Horse Fastback",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 2026 Ford Lariat SuperCrew 4x4 in Shadow Black. 2.7L EcoBoost, FX4 Off-Road, B&O Audio & morein Surrey",
@@ -2698,13 +3099,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger 2026 Ford Lariat SuperCrew 4x4 in Shadow Black. 2.7L EcoBoost, FX4 Off-Road, B&O Audio & morein Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 2026 Ford XLT SuperCrew 4x4 in Oxford White. 2.7L EcoBoost, FX4 Off-Road Pkg, 360-cam & more.in Surrey",
       "vin": "1FTER4HPXTLE13518",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "2026 Ford XLT in Oxford White. EcoBoost",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c773d1c3794f.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Ranger-id13648733.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Ranger-id13648733.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2713,8 +3117,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger 2026 Ford XLT SuperCrew 4x4 in Oxford White. 2.7L EcoBoost, FX4 Off-Road Pkg, 360-cam & more.in Surrey",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 2026 XLT SuperCrew 4x4 with FX4 Off-Road Package. Shadow Black, EcoBoost power, towing tech.in Surrey",
@@ -2730,7 +3136,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger 2026 XLT SuperCrew 4x4 with FX4 Off-Road Package. Shadow Black, EcoBoost power, towing tech.in Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 2026 Ford Lariat SuperCrew 4x4 with FX4 Off-Road Package. Marsh Grey, 2.7 EcoBoost engine.in Surrey",
@@ -2746,13 +3154,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger 2026 Ford Lariat SuperCrew 4x4 with FX4 Off-Road Package. Marsh Grey, 2.7 EcoBoost engine.in Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW King Ranch 4WD Crew Cab 6.75' Box | 5TH WHEEL PREPin Surrey",
       "vin": "1FT8W3BM8TEC90983",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "F-350 SRW King Ranch 6.75' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d67c62a23206.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Super_Duty_F_350_SRW-id13156943.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Super_Duty_F_350_SRW-id13156943.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2761,14 +3172,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW King Ranch 4WD Crew Cab 6.75' Box",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box | Lariat Ultimate Package | Power moonroof, twin-panelin Surrey",
       "vin": "1FT8W3BM9TED59843",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "F-350 SRW LARIAT 6.75' Box",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1e1a966f56cc.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Super_Duty_F_350_SRW-id13523550.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Super_Duty_F_350_SRW-id13523550.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2777,14 +3191,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW Platinum 4WD Crew Cab | Power moonroof, twin-panel | Pro Power Onboard 2-kilowatt | B&O Unleashedin Surrey",
       "vin": "1FT8W3BM0TED76904",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "F-350 SRW Platinum",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/311b4952624d.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Super_Duty_F_350_SRW-id13773993.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Super_Duty_F_350_SRW-id13773993.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2793,8 +3210,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW Platinum 4WD Crew Cab",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Transit Cargo Van 2026 Ford 350 High Roof AWD in Oxford White. 3.5L EcoBoost, dual alternators & tow pkgin Surrey",
@@ -2810,7 +3229,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Transit Cargo Van 2026 Ford 350 High Roof AWD in Oxford White. 3.5L EcoBoost, dual alternators & tow pkgin Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Transit Cargo Van T-150 148\" Med Rf \" Load Area Protection Package \" Extended Fuel Tank (117 L) \" Pro Power Onboardin Surrey",
@@ -2826,13 +3247,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Transit Cargo Van T-150 148\" Med Rf \" Load Area Protection Package \" Extended Fuel Tank (117 L) \" Pro Power Onboardin Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Transit Cargo Van 2026 Ford 250 HR AWD with 3.5L V6, all-wheel drive.in Surrey",
       "vin": "1FTBR2X85TKB00674",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van 2026 Ford 250 HR with V6",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/8e154bdebc21.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Transit_Cargo_Van-id13798301.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Transit_Cargo_Van-id13798301.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2841,14 +3265,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Transit Cargo Van 2026 Ford 250 HR AWD with 3.5L V6, all-wheel drive.in Surrey",
-      "condition": "new"
+      "model": "Transit Cargo",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Transit Cargo Van 350 High Roof | 9,500 lb GVWR package | Heavy-duty front axle | 12-inch screenin Surrey",
       "vin": "1FTBW3X82TKA78177",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van 350 High Roof",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/dc8ebcededf4.html",
       "source_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Transit_Cargo_Van-id13895123.html",
       "dealer_url": "https://www.titaniumford.ca/new/inventory/2026-Ford-Transit_Cargo_Van-id13895123.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2857,8 +3284,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Transit Cargo Van 350 High Roof",
-      "condition": "new"
+      "model": "Transit Cargo",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hisun Guardian 750 Lin Surrey",
@@ -2873,7 +3302,9 @@
       "year": 2026,
       "make": "Hisun",
       "model": "Guardian 750 Lin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hisun Guardian 750 Lin Surrey",
@@ -2888,7 +3319,9 @@
       "year": 2026,
       "make": "Hisun",
       "model": "Guardian 750 Lin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hisun Guardian 750 Lin Surrey",
@@ -2903,7 +3336,9 @@
       "year": 2026,
       "make": "Hisun",
       "model": "Guardian 750 Lin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hisun Guardian 750 Lin Surrey",
@@ -2918,7 +3353,9 @@
       "year": 2026,
       "make": "Hisun",
       "model": "Guardian 750 Lin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hisun Guardian 750 L ",
@@ -2932,13 +3369,16 @@
       "year": 2026,
       "make": "Hisun",
       "model": "Guardian 750 L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage SX AWD HYBRID | Adaptive Cruise Control | Lane Keep Assist | Automatic Emergency Brakingin Surrey",
       "vin": "KNDPXDDG5T7275531",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SX HYBRID",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/e51658970a21.html",
       "source_url": "https://www.titaniumford.ca/used/2026-Kia-Sportage-id14165825.html",
       "dealer_url": "https://www.titaniumford.ca/used/2026-Kia-Sportage-id14165825.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2948,8 +3388,10 @@
       "odometer_km": 5692,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage SX AWD HYBRID",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage ",
@@ -2965,7 +3407,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage ",
@@ -2981,13 +3425,16 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mitsubishi Outlander SE S-AWC | Adaptive cruise control | Blind spot monitoring | Lane keep assistin Surrey",
       "vin": "JA4J4VAB2TZ619070",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SE S-AWC",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/e5aaa796b3a6.html",
       "source_url": "https://www.titaniumford.ca/used/2026-Mitsubishi-Outlander-id14183373.html",
       "dealer_url": "https://www.titaniumford.ca/used/2026-Mitsubishi-Outlander-id14183373.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2996,8 +3443,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mitsubishi",
-      "model": "Outlander SE S-AWC",
-      "condition": "used"
+      "model": "Outlander",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mitsubishi Outlander ",
@@ -3013,7 +3462,9 @@
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mitsubishi Outlander ",
@@ -3029,11 +3480,14 @@
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Bronco Sportin Surrey",
       "stock": "NUMBER",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c5812237383e.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Bronco_Sport.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Bronco_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3042,8 +3496,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Bronco Sportin Surrey",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Expeditionin Surrey",
@@ -3057,7 +3513,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Expeditionin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -3073,7 +3531,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford F-150in Surrey",
@@ -3087,7 +3547,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "F-150in Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Maverickin Surrey",
@@ -3101,11 +3563,14 @@
       "year": 2027,
       "make": "Ford",
       "model": "Maverickin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Maverick Hybridin Surrey",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b727cbdefc54.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Maverick_Hybrid.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Maverick_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3114,12 +3579,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Maverick Hybridin Surrey",
-      "condition": "used"
+      "model": "Maverick",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-250 SRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/3141390f5b0b.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3128,12 +3596,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-250 SRWin Surrey",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 DRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-350 DRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c962d389ff61.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3142,14 +3613,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Surrey",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BM9VEC17821",
       "stock": 14364857,
       "color": "Blue",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/758ed4aab2c6.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3158,12 +3632,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-450 DRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/0e0044426590.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3172,12 +3649,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Surrey",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Bronco Sportin Surrey",
       "stock": "NUMBER",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c5812237383e.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Bronco_Sport.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Bronco_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3186,8 +3666,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Bronco Sportin Surrey",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Expeditionin Surrey",
@@ -3201,7 +3683,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Expeditionin Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -3217,7 +3701,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford F-150in Surrey",
@@ -3231,7 +3717,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "F-150in Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Maverickin Surrey",
@@ -3245,11 +3733,14 @@
       "year": 2027,
       "make": "Ford",
       "model": "Maverickin Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Maverick Hybridin Surrey",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/b727cbdefc54.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Maverick_Hybrid.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Maverick_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3258,12 +3749,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Maverick Hybridin Surrey",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-250 SRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/3141390f5b0b.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3272,12 +3766,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-250 SRWin Surrey",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 DRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-350 DRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c962d389ff61.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3286,14 +3783,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Surrey",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BM9VEC17821",
       "stock": 14364857,
       "color": "Blue",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/758ed4aab2c6.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3302,12 +3802,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-450 DRWin Surrey",
       "stock": "NUMBER",
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/0e0044426590.html",
       "source_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.titaniumford.ca/new/2027-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3316,8 +3819,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Surrey",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
