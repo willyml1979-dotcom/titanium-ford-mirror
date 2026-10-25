@@ -1,10 +1,42 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-10-25T14:44:36",
+  "generated_at": "2026-10-25T14:48:12",
   "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2025 Ford F-150 Hybrid Platinum 4WD SuperCrew 5.5' Box | 3.5-litre PowerBoost | Pro Power Onboard 7.2 kWin Surrey",
+      "vin": "1FTFW7LD3SFA62024",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/314d7cdc0558.html",
+      "condition": "new",
+      "price": 95436.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford F-150 Lightning Platinum 4WD SuperCrew 5.5' Box | BlueCruise Hands-Free Driving | Twin-panel Moonroofin Surrey",
+      "vin": "1FT6W7L75SWG25066",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/a027ce958164.html",
+      "condition": "new",
+      "price": 116650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Maverick Lariat | BLACK APPEARANCE PKG | SUNROOF | ALL-WHEEL-DRIVEin Surrey",
+      "vin": "3FTTW8SA2SRB68872",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/23d2d16036ae.html",
+      "condition": "new",
+      "price": 46905.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Mustang Mach-E Select | Comfort Package Lite with Heated Front Seats | BlueCruise | Memory Driver Seatin Surrey",
+      "vin": "3FMTK1S59SMA54091",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/158d59746079.html",
+      "condition": "new",
+      "price": 54951.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Ford F-150 XLT 4WD SuperCrew 6.5' Box | 5.0-litre V8 engine (400 hp / 410 lb-ft) | XLT Black Appearance Packagein Surrey",
       "vin": "1FTFW3L56TKE44672",
@@ -1103,50 +1135,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150 Hybrid Platinum 4WD SuperCrew 5.5' Box | 3.5-litre PowerBoost | Pro Power Onboard 7.2 kWin Surrey",
-      "vin": "1FTFW7LD3SFA62024",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/314d7cdc0558.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 Hybrid",
-      "condition": "new",
-      "price": 95436.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 Lightning Platinum 4WD SuperCrew 5.5' Box | BlueCruise Hands-Free Driving | Twin-panel Moonroofin Surrey",
-      "vin": "1FT6W7L75SWG25066",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/a027ce958164.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 Lightning",
-      "condition": "new",
-      "price": 116650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Maverick Lariat | BLACK APPEARANCE PKG | SUNROOF | ALL-WHEEL-DRIVEin Surrey",
-      "vin": "3FTTW8SA2SRB68872",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/23d2d16036ae.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 46905.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Mustang Mach-E Select | Comfort Package Lite with Heated Front Seats | BlueCruise | Memory Driver Seatin Surrey",
-      "vin": "3FMTK1S59SMA54091",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/158d59746079.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 54951.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Ford Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box | 6.7-litre High-Output Power Stroke Diesel | B&O Audio Systemin Surrey",
       "vin": "1FT8W3BM7SEC88866",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1544a176df67.html",
@@ -1838,7 +1826,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 140799.0,
+      "price": 139749.0,
       "price_currency": "CAD"
     }
   ]
