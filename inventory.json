@@ -1,6 +1,6 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-10-25T14:48:12",
+  "generated_at": "2026-10-26T00:20:55",
   "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -478,7 +478,7 @@
       "make": "Kia",
       "model": "Soul",
       "condition": "used",
-      "price": 21998.0,
+      "price": 21698.0,
       "price_currency": "CAD"
     },
     {
