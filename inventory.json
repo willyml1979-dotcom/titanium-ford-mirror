@@ -1,7 +1,7 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-10-26T08:44:49",
-  "vehicle_count": 174,
+  "generated_at": "2026-10-26T08:49:18",
+  "vehicle_count": 173,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -190,6 +190,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford Mustang Dark Horse Fastback | Dark Horse Handling Package | Dark Horse Appearance Package | B&O sound systemin Surrey",
+      "vin": "1FA6P8R04T5503468",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/12040c6eaa0a.html",
+      "condition": "new",
+      "price": 94020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger 2026 Ford XLT SuperCrew 4x4 in Oxford White. 2.7L EcoBoost, FX4 Off-Road Pkg, 360-cam & more.in Surrey",
+      "vin": "1FTER4HPXTLE13518",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c773d1c3794f.html",
+      "condition": "new",
+      "price": 60115.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger 2026 Ford Lariat SuperCrew 4x4 with FX4 Off-Road Package. Marsh Grey, 2.7 EcoBoost engine.in Surrey",
+      "vin": "1FTER4KP6TLE23939",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4baf3a65383b.html",
+      "condition": "new",
+      "price": 65760.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Super Duty F-350 SRW King Ranch 4WD Crew Cab 6.75' Box | 5TH WHEEL PREPin Surrey",
+      "vin": "1FT8W3BM8TEC90983",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d67c62a23206.html",
+      "condition": "new",
+      "price": 129454.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box | Lariat Ultimate Package | Power moonroof, twin-panelin Surrey",
+      "vin": "1FT8W3BM9TED59843",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1e1a966f56cc.html",
+      "condition": "new",
+      "price": 122694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Super Duty F-350 SRW Platinum 4WD Crew Cab | Power moonroof, twin-panel | Pro Power Onboard 2-kilowatt | B&O Unleashedin Surrey",
+      "vin": "1FT8W3BM0TED76904",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/311b4952624d.html",
+      "condition": "new",
+      "price": 129055.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford Super Duty F-350 SRW XLT 4WD Crew Cab 6.75' Box | XLT Premium Package | Pro Power Onboard 2kW | LED box lightingin Surrey",
       "vin": "1FT8W3BT9TEF01194",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/5c8fe5dd2694.html",
@@ -203,6 +251,22 @@
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/a4178be4313f.html",
       "condition": "new",
       "price": 122798.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Transit Cargo Van 2026 Ford 350 High Roof AWD in Oxford White. 3.5L EcoBoost, dual alternators & tow pkgin Surrey",
+      "vin": "1FTBW3UG2TKA52707",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/458669f21796.html",
+      "condition": "new",
+      "price": 83195.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Transit Cargo Van 350 High Roof | 9,500 lb GVWR package | Heavy-duty front axle | 12-inch screenin Surrey",
+      "vin": "1FTBW3X82TKA78177",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/dc8ebcededf4.html",
+      "condition": "new",
+      "price": 68445.0,
       "price_currency": "CAD"
     },
     {
@@ -576,7 +640,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 44927.0,
+      "price": 44727.0,
       "price_currency": "CAD"
     },
     {
@@ -587,7 +651,7 @@
       "make": "Ford",
       "model": "F-150 Hybrid",
       "condition": "new",
-      "price": 51657.0,
+      "price": 51567.0,
       "price_currency": "CAD"
     },
     {
@@ -598,7 +662,7 @@
       "make": "Ford",
       "model": "F-150 Lightning",
       "condition": "new",
-      "price": 59923.0,
+      "price": 59155.0,
       "price_currency": "CAD"
     },
     {
@@ -771,17 +835,6 @@
       "model": "Silverado 1500",
       "condition": "used",
       "price": 44569.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Tahoe ",
-      "vin": "1GNSKPKL9PR396381",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/0090c556bfbf.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Tahoe",
-      "condition": "new",
-      "price": 78908.0,
       "price_currency": "CAD"
     },
     {
@@ -1530,94 +1583,6 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 122979.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Dark Horse Fastback | Dark Horse Handling Package | Dark Horse Appearance Package | B&O sound systemin Surrey",
-      "vin": "1FA6P8R04T5503468",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/12040c6eaa0a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "new",
-      "price": 94020.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger 2026 Ford XLT SuperCrew 4x4 in Oxford White. 2.7L EcoBoost, FX4 Off-Road Pkg, 360-cam & more.in Surrey",
-      "vin": "1FTER4HPXTLE13518",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c773d1c3794f.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 60115.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger 2026 Ford Lariat SuperCrew 4x4 with FX4 Off-Road Package. Marsh Grey, 2.7 EcoBoost engine.in Surrey",
-      "vin": "1FTER4KP6TLE23939",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4baf3a65383b.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger 2026 Ford Lariat SuperCrew 4x4 with FX4 Off-Road Package. Marsh Grey, 2.7 EcoBoost engine.in Surrey",
-      "condition": "new",
-      "price": 65760.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Super Duty F-350 SRW King Ranch 4WD Crew Cab 6.75' Box | 5TH WHEEL PREPin Surrey",
-      "vin": "1FT8W3BM8TEC90983",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d67c62a23206.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "new",
-      "price": 129454.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box | Lariat Ultimate Package | Power moonroof, twin-panelin Surrey",
-      "vin": "1FT8W3BM9TED59843",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1e1a966f56cc.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "new",
-      "price": 122694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Super Duty F-350 SRW Platinum 4WD Crew Cab | Power moonroof, twin-panel | Pro Power Onboard 2-kilowatt | B&O Unleashedin Surrey",
-      "vin": "1FT8W3BM0TED76904",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/311b4952624d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "new",
-      "price": 129055.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Transit Cargo Van 2026 Ford 350 High Roof AWD in Oxford White. 3.5L EcoBoost, dual alternators & tow pkgin Surrey",
-      "vin": "1FTBW3UG2TKA52707",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/458669f21796.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Transit Cargo Van 2026 Ford 350 High Roof AWD in Oxford White. 3.5L EcoBoost, dual alternators & tow pkgin Surrey",
-      "condition": "new",
-      "price": 83195.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Transit Cargo Van 350 High Roof | 9,500 lb GVWR package | Heavy-duty front axle | 12-inch screenin Surrey",
-      "vin": "1FTBW3X82TKA78177",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/dc8ebcededf4.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "new",
-      "price": 68445.0,
       "price_currency": "CAD"
     },
     {
