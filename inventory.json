@@ -1,6 +1,6 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-10-26T00:20:55",
+  "generated_at": "2026-10-26T00:26:08",
   "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -38,6 +38,94 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2025 Ford Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box | 6.7-litre High-Output Power Stroke Diesel | B&O Audio Systemin Surrey",
+      "vin": "1FT8W3BM7SEC88866",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1544a176df67.html",
+      "condition": "new",
+      "price": 97040.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Badlands 4 Door 4x4 | 2.7 ECOBOOST | PAINTED HARD TOPin Surrey",
+      "vin": "1FMEE9BP1TLA44299",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c9f347330287.html",
+      "condition": "new",
+      "price": 84035.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco 2026 Ford Badlands 4x4 in Avalanche Grey with Sasquatch Package. Off-road ready. Surrey, BC.in Surrey",
+      "vin": "1FMEE9BP8TLA89160",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/8a370f18f5bf.html",
+      "condition": "new",
+      "price": 91135.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Badlands 4 Door 4x4 | \" Sasquatch Package, Locking front & rear differentials, LT315/70R17 R/T tiresin Surrey",
+      "vin": "1FMEE9BP6TLA75225",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/7de0253d6aca.html",
+      "condition": "new",
+      "price": 96205.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco 2026 Ford Big Bend 4-Door 4x4 in Desert Sand. Sasquatch & Black Diamond Packages, 35\" tires,in Surrey",
+      "vin": "1FMEE7BH4TLA77259",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4671b892d5ad.html",
+      "condition": "new",
+      "price": 76015.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 LARIAT 4WD SuperCrew 5.5' Box | Twin Panel Moonroof | Lariat Black Appearance Package | BlueCruisein Surrey",
+      "vin": "1FTFW5L86TFA24571",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f68e746b57cc.html",
+      "condition": "new",
+      "price": 93920.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | XLT BLACK APPEARANCE PACKAGEin Surrey",
+      "vin": "1FTFW3L82TKD51772",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4317b6ff6b2c.html",
+      "condition": "new",
+      "price": 82110.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | BLACK APPEARANCE PKG | BED UTILITY PKGin Surrey",
+      "vin": "1FTFW3L87TKD55252",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f71be4b6702c.html",
+      "condition": "new",
+      "price": 82110.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 2026 Ford Platinum SuperCrew 4x4. Star White, leather, EcoBoost. Titanium Ford, Surrey BC.in Surrey",
+      "vin": "1FTFW7L8XTFA89337",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/85842215c592.html",
+      "condition": "new",
+      "price": 112530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Avalanche 2026 Lariat SuperCrew 4x4. Premium luxury truck built for BC. Titanium Ford Surrey.in Surrey",
+      "vin": "1FTFW5L82TKE02912",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4ef87be84659.html",
+      "condition": "new",
+      "price": 90035.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 2026 Ford Lobo SuperCrew 4x4 with 5.0L V8. Carbonized Grey, black cloth.in Surrey",
+      "vin": "1FTEW2L56TFA91218",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/7dd6dde62e92.html",
+      "condition": "new",
+      "price": 80150.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 XLT 4WD SuperCrew 6.5' Box | 5.0-litre V8 engine (400 hp / 410 lb-ft) | XLT Black Appearance Packagein Surrey",
       "vin": "1FTFW3L56TKE44672",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/661cbc64e7c8.html",
@@ -67,6 +155,38 @@
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/ecda88ff1d22.html",
       "condition": "new",
       "price": 88550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Hybrid King Ranch 4WD SuperCrew 5.5' Box | PRO POWER ONBOARD - 7.2 KWin Surrey",
+      "vin": "1FTFW6LD3TFA38351",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d1c243a91197.html",
+      "condition": "new",
+      "price": 108450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Hybrid Lariat SuperCrew 4x4 | 3.5-Litre PowerBoost Full | Twin-Panel Moonroofin Surrey",
+      "vin": "1FTFW5LD1TFA95190",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/6b63fddcb792.html",
+      "condition": "new",
+      "price": 100845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang GT Premium Fastback | 6 SPEED MANUAL | GT Performance Package | Nite Pony Packagein Surrey",
+      "vin": "1FA6P8CF9T5403654",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/bcc0117d047d.html",
+      "condition": "new",
+      "price": 75585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang GT Fastback | PERFORMANCE PKG | NITE PONY PKG | BLUE SEATBELTSin Surrey",
+      "vin": "1FA6P8CF0T5403767",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/5d9f21794875.html",
+      "condition": "new",
+      "price": 68590.0,
       "price_currency": "CAD"
     },
     {
@@ -1135,17 +1255,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Super Duty F-350 SRW LARIAT 4WD Crew Cab 6.75' Box | 6.7-litre High-Output Power Stroke Diesel | B&O Audio Systemin Surrey",
-      "vin": "1FT8W3BM7SEC88866",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1544a176df67.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "new",
-      "price": 97040.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Ford F-150 Lightning ",
       "vin": "1FT6W3LUXSWG07953",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/ece0891ada97.html",
@@ -1388,160 +1497,6 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 122979.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Badlands 4 Door 4x4 | 2.7 ECOBOOST | PAINTED HARD TOPin Surrey",
-      "vin": "1FMEE9BP1TLA44299",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c9f347330287.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 84035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco 2026 Ford Badlands 4x4 in Avalanche Grey with Sasquatch Package. Off-road ready. Surrey, BC.in Surrey",
-      "vin": "1FMEE9BP8TLA89160",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/8a370f18f5bf.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco 2026 Ford Badlands 4x4 in Avalanche Grey with Sasquatch Package. Off-road ready. Surrey, BC.in Surrey",
-      "condition": "new",
-      "price": 91135.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Badlands 4 Door 4x4 | \" Sasquatch Package, Locking front & rear differentials, LT315/70R17 R/T tiresin Surrey",
-      "vin": "1FMEE9BP6TLA75225",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/7de0253d6aca.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 96205.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco 2026 Ford Big Bend 4-Door 4x4 in Desert Sand. Sasquatch & Black Diamond Packages, 35\" tires,in Surrey",
-      "vin": "1FMEE7BH4TLA77259",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4671b892d5ad.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco 2026 Ford Big Bend 4-Door 4x4 in Desert Sand. Sasquatch & Black Diamond Packages, 35\" tires,in Surrey",
-      "condition": "new",
-      "price": 76015.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 LARIAT 4WD SuperCrew 5.5' Box | Twin Panel Moonroof | Lariat Black Appearance Package | BlueCruisein Surrey",
-      "vin": "1FTFW5L86TFA24571",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f68e746b57cc.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 85920.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | XLT BLACK APPEARANCE PACKAGEin Surrey",
-      "vin": "1FTFW3L82TKD51772",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4317b6ff6b2c.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 74110.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | BLACK APPEARANCE PKG | BED UTILITY PKGin Surrey",
-      "vin": "1FTFW3L87TKD55252",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f71be4b6702c.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 74110.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 2026 Ford Platinum SuperCrew 4x4. Star White, leather, EcoBoost. Titanium Ford, Surrey BC.in Surrey",
-      "vin": "1FTFW7L8XTFA89337",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/85842215c592.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 104530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Avalanche 2026 Lariat SuperCrew 4x4. Premium luxury truck built for BC. Titanium Ford Surrey.in Surrey",
-      "vin": "1FTFW5L82TKE02912",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/4ef87be84659.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 Avalanche 2026 Lariat SuperCrew 4x4. Premium luxury truck built for BC. Titanium Ford Surrey.in Surrey",
-      "condition": "new",
-      "price": 82035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 2026 Ford Lobo SuperCrew 4x4 with 5.0L V8. Carbonized Grey, black cloth.in Surrey",
-      "vin": "1FTEW2L56TFA91218",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/7dd6dde62e92.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 73150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Hybrid King Ranch 4WD SuperCrew 5.5' Box | PRO POWER ONBOARD - 7.2 KWin Surrey",
-      "vin": "1FTFW6LD3TFA38351",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d1c243a91197.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 Hybrid",
-      "condition": "new",
-      "price": 100450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Hybrid Lariat SuperCrew 4x4 | 3.5-Litre PowerBoost Full | Twin-Panel Moonroofin Surrey",
-      "vin": "1FTFW5LD1TFA95190",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/6b63fddcb792.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 Hybrid",
-      "condition": "new",
-      "price": 92845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang GT Premium Fastback | 6 SPEED MANUAL | GT Performance Package | Nite Pony Packagein Surrey",
-      "vin": "1FA6P8CF9T5403654",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/bcc0117d047d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "new",
-      "price": 75585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang GT Fastback | PERFORMANCE PKG | NITE PONY PKG | BLUE SEATBELTSin Surrey",
-      "vin": "1FA6P8CF0T5403767",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/5d9f21794875.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "new",
-      "price": 68590.0,
       "price_currency": "CAD"
     },
     {
