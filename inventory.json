@@ -1,7 +1,7 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-10-26T00:26:08",
-  "vehicle_count": 171,
+  "generated_at": "2026-10-26T08:44:49",
+  "vehicle_count": 174,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -206,6 +206,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 Ford F-150 ",
+      "vin": "1FTEW1EG9GFA40780",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b7f1a45e2406.html",
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 26072.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 BMW 3 Series 330i Xdrivein Surrey",
+      "vin": "WBA8Z9C55HG452823",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c64d351db475.html",
+      "year": 2017,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 BMW 3 Series ",
+      "vin": "WBA8Z9C55HG452823",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c00dfb56abc2.html",
+      "year": 2017,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Ford Escape ",
       "vin": "1FMCU0GD8HUA72591",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c8e75dd3123f.html",
@@ -224,7 +257,7 @@
       "make": "Porsche",
       "model": "Panamera",
       "condition": "used",
-      "price": 61998.0,
+      "price": 58998.0,
       "price_currency": "CAD"
     },
     {
@@ -235,7 +268,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 39632.0,
+      "price": 39532.0,
       "price_currency": "CAD"
     },
     {
@@ -279,7 +312,7 @@
       "make": "Infiniti",
       "model": "QX80",
       "condition": "used",
-      "price": 29898.0,
+      "price": 29798.0,
       "price_currency": "CAD"
     },
     {
@@ -312,7 +345,7 @@
       "make": "Ford",
       "model": "Edge",
       "condition": "used",
-      "price": 27823.0,
+      "price": 27723.0,
       "price_currency": "CAD"
     },
     {
@@ -345,7 +378,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 46964.0,
+      "price": 46267.0,
       "price_currency": "CAD"
     },
     {
@@ -422,7 +455,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 26938.0,
+      "price": 26957.0,
       "price_currency": "CAD"
     },
     {
@@ -500,6 +533,17 @@
       "model": "F-150 Lightning",
       "condition": "used",
       "price": 59155.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Ford Super Duty F-350 SRW ",
+      "vin": "1FT8W3BT8NEC80285",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/1b5bb7124de5.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "used",
+      "price": 73780.0,
       "price_currency": "CAD"
     },
     {
@@ -682,7 +726,7 @@
       "make": "Toyota",
       "model": "4Runner",
       "condition": "used",
-      "price": 53168.0,
+      "price": 52523.0,
       "price_currency": "CAD"
     },
     {
@@ -1219,17 +1263,6 @@
       "model": "RAV4 Hybrid",
       "condition": "new",
       "price": 36998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 Lightning Flash 4WD SuperCrew | BlueCruise | B&O Audio System | Heated Front Seats | Pro Power Onboard 9.6 kWin Surrey",
-      "vin": "1FT6W3LUXSWG07953",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/2cf28cef638e.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 Lightning",
-      "condition": "used",
-      "price": 79835.0,
       "price_currency": "CAD"
     },
     {
