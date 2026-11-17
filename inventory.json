@@ -1,7 +1,7 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-11-17T10:33:37",
-  "vehicle_count": 177,
+  "generated_at": "2026-11-17T10:44:19",
+  "vehicle_count": 180,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -211,6 +211,70 @@
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c1386505e5cb.html",
       "condition": "used",
       "price": 73563.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2023 for salein Surrey",
+      "vin": "1FMCU9GN2PUA67723",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/034c594cc283.html",
+      "condition": "new",
+      "price": 25699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2023 for salein Surrey",
+      "vin": "1FTEW1EP2PKD58005",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/636c1aab7299.html",
+      "condition": "new",
+      "price": 49531.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 Hybrid 2023 for salein Surrey",
+      "vin": "1FTFW1ED9PFA32320",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/9bab42b49d22.html",
+      "condition": "new",
+      "price": 58683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 Lightning 2023 for salein Surrey",
+      "vin": "1FT6W1EV4PWG21283",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/28dc7e7e11c5.html",
+      "condition": "new",
+      "price": 72748.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-350 SRW 2023 for salein Surrey",
+      "vin": "1FT8W3BT7PEC39293",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f15cd0f8d770.html",
+      "condition": "new",
+      "price": 67579.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Express Cargo Van 2024 for salein Surrey",
+      "vin": "1GCWGAF78R1120801",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/82a2fe10500b.html",
+      "condition": "new",
+      "price": 35998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2024 for salein Surrey",
+      "vin": "1FMDE7BH0RLA34459",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/892db92bda01.html",
+      "condition": "new",
+      "price": 44871.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2024 for salein Surrey",
+      "vin": "3GTUUCE88RG435749",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/a1abae815d7d.html",
+      "condition": "new",
+      "price": 51496.0,
       "price_currency": "CAD"
     },
     {
@@ -815,61 +879,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Escape ",
-      "vin": "1FMCU9GN2PUA67723",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/034c594cc283.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 25998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTEW1EP8PFC89748",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/636c1aab7299.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 52947.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 Hybrid ",
-      "vin": "1FTFW1ED6PFC42566",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/9bab42b49d22.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150 Hybrid",
-      "condition": "new",
-      "price": 48978.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 Lightning ",
-      "vin": "1FT6W1EV4PWG21283",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/28dc7e7e11c5.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150 Lightning",
-      "condition": "new",
-      "price": 82554.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BT7PEC39293",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/f15cd0f8d770.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "new",
-      "price": 69904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Segway FUGLEMANin Surrey",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c65d0b0788e3.html",
       "year": 2023,
@@ -922,28 +931,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Express Cargo Van ",
-      "vin": "1GCWGAF78R1120801",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/82a2fe10500b.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Express",
-      "condition": "new",
-      "price": 37298.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Charger Daytona ",
-      "vin": "2C3CDBCK5RR205959",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1218e1712630.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "new",
-      "price": 44259.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford Bronco Big Bend 4 Door 4x4 | Front row heated seats | Ford Co-Pilot360 driver assistin Surrey",
       "vin": "1FMDE7BH0RLA34459",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/df224e0405f8.html",
@@ -966,28 +953,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Bronco ",
-      "vin": "1FMDE7BH0RLA34459",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/892db92bda01.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 44871.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Transit Passenger Wagon ",
-      "vin": "1FBAX2C80RKA56071",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/9e41c4e882a8.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Transit Passenger Wagon",
-      "condition": "new",
-      "price": 59998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 GMC Sierra 1500 Crew Cab Short Box 4-Wheel Drive Elevation | 3.0-litre Duramax Turbo-Diesel | GMC MultiPro tailgatein Surrey",
       "vin": "3GTUUCE88RG435749",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b12a2d1468af.html",
@@ -1007,39 +972,6 @@
       "model": "Sierra 1500",
       "condition": "used",
       "price": 54997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Sierra 1500 ",
-      "vin": "3GTUUCE88RG435749",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/a1abae815d7d.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 54997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 1500 Classic ",
-      "vin": "1C6RR7LT8RS192367",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/3428991936f4.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "new",
-      "price": 48065.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Tesla Model Y ",
-      "vin": "7SAYGDEF5RF087785",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/eceb555c886f.html",
-      "year": 2024,
-      "make": "Tesla",
-      "model": "Model Y",
-      "condition": "new",
-      "price": 54298.0,
       "price_currency": "CAD"
     },
     {
@@ -1497,6 +1429,61 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | XLT Black Appearance Package Plus | 5.0L V8 Enginein Surrey",
+      "vin": "1FTFW3L57TFB46379",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c1e52f542e9e.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 72375.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremor 4WD SuperCrew 5.5' Box | Heated and ventilated front seats | B&O Unleashed sound systemin Surrey",
+      "vin": "1FTFW4L89TFB51227",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/e278f0e1a579.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 87545.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | XLT Black Appearance Package | 5.0-litre V8 enginein Surrey",
+      "vin": "1FTFW3L59TKE46609",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/bdae11b08425.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 70735.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLT 4WD SuperCrew 5.5' Box | Bed Utility Package with tailgate step | 5.0L V8 enginein Surrey",
+      "vin": "1FTFW3L5XTKE46621",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/65c98cc6426c.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 70735.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremor 4WD SuperCrew 5.5' Box | Head-Up Display | Pro Access Tailgate | Twin-panel moonroofin Surrey",
+      "vin": "1FTFW4L81TFB51674",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/646587d438bb.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 87545.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 Hybrid King Ranch 4WD SuperCrew 5.5' Box | PRO POWER ONBOARD - 7.2 KWin Surrey",
       "vin": "1FTFW6LD3TFA38351",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d1c243a91197.html",
@@ -1549,6 +1536,17 @@
       "model": "Mustang",
       "condition": "new",
       "price": 94020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang GT Premium Fastback | GT Performance Package | 6-speed manual transmissionin Surrey",
+      "vin": "1FA6P8CF8T5411616",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/aa4a78a80ec9.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang",
+      "condition": "new",
+      "price": 74260.0,
       "price_currency": "CAD"
     },
     {
@@ -1626,6 +1624,17 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 122798.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Super Duty F-350 SRW XLT 4WD Crew Cab 6.75' Box | Tremor Off-Road Package | Power moonroof with twin panels |in Surrey",
+      "vin": "1FT8W3BM1TEF01327",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/8a8e5b0dba81.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 111849.0,
       "price_currency": "CAD"
     },
     {
