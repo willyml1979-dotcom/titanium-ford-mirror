@@ -7,7 +7,7 @@ Titanium Ford is a  dealership in Surrey. This site is an AI-readable mirror of 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/ and https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/ (about 180 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/ and https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/ (about 177 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/titanium-ford-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/titanium-ford-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/titanium-ford-mirror/llms.txt

@@ -1,7 +1,7 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-11-18T01:26:16",
-  "vehicle_count": 180,
+  "generated_at": "2026-11-18T01:31:26",
+  "vehicle_count": 177,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -355,6 +355,14 @@
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/a1abae815d7d.html",
       "condition": "new",
       "price": 51496.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander 2026 for salein Surrey",
+      "vin": "JA4J4VAB2TZ619070",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/810049492616.html",
+      "condition": "new",
+      "price": 34046.0,
       "price_currency": "CAD"
     },
     {
@@ -945,17 +953,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota RAV4 Hybrid ",
-      "vin": "2T3BWRFV9RW232037",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/2c249ca1c3ff.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "RAV4 Hybrid",
-      "condition": "new",
-      "price": 36998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2025 Ford F-150 Hybrid Platinum 4WD SuperCrew 5.5' Box | 3.5-litre PowerBoost | Pro Power Onboard 7.2 kWin Surrey",
       "vin": "1FTFW7LD3SFA62024",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/314d7cdc0558.html",
@@ -1011,28 +1008,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150 Lightning ",
-      "vin": "1FT6W3LUXSWG07953",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/ece0891ada97.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 Lightning",
-      "condition": "new",
-      "price": 79835.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 GMC Canyon ",
-      "vin": "1GTP2DEK5S1244654",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/57f64a1c1525.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Canyon",
-      "condition": "new",
-      "price": 59998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 ",
       "vin": "1FTFW1RG8TFC09521",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/856a479233c4.html",
@@ -1044,25 +1019,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco ",
+      "name": "2026 Ford Broncoin Surrey",
       "vin": "1FMEE7BH4TLA77259",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d1b7ef785445.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco",
+      "model": "Broncoin Surrey",
       "condition": "new",
-      "price": 76015.0,
+      "price": 50460.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN0TRF12809",
+      "name": "2026 Ford Bronco Sportin Surrey",
+      "vin": "3FMCR9BN7TRF41160",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/a3f64c0afad4.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Bronco",
       "condition": "new",
-      "price": 44285.0,
+      "price": 38140.0,
       "price_currency": "CAD"
     },
     {
@@ -1362,7 +1337,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 76560.0,
+      "price": 71310.0,
       "price_currency": "CAD"
     },
     {
@@ -1373,7 +1348,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 90445.0,
+      "price": 85195.0,
       "price_currency": "CAD"
     },
     {
@@ -1384,7 +1359,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 74785.0,
+      "price": 69535.0,
       "price_currency": "CAD"
     },
     {
@@ -1395,7 +1370,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 88550.0,
+      "price": 83300.0,
       "price_currency": "CAD"
     },
     {
@@ -1582,7 +1557,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 105544.0,
+      "price": 103544.0,
       "price_currency": "CAD"
     },
     {
@@ -1593,7 +1568,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 122798.0,
+      "price": 120798.0,
       "price_currency": "CAD"
     },
     {
@@ -1709,17 +1684,6 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 36482.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander ",
-      "vin": "JA4J4VAB2TZ619070",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/810049492616.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
       "price": 36482.0,
       "price_currency": "CAD"
     },

@@ -1,6 +1,6 @@
 # Titanium Ford
 
- dealership in Surrey. AI-readable inventory mirror, about 180 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 177 vehicles.
 
 - Official website: https://www.titaniumford.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/
