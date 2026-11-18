@@ -1,7 +1,7 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-11-18T01:31:26",
-  "vehicle_count": 177,
+  "generated_at": "2026-11-18T10:37:23",
+  "vehicle_count": 183,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -27,6 +27,14 @@
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/ede207813fc2.html",
       "condition": "used",
       "price": 60032.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2018 for salein Surrey",
+      "vin": "5XYPHDA5XJG397270",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/6cd1b73d788b.html",
+      "condition": "used",
+      "price": 16859.0,
       "price_currency": "CAD"
     },
     {
@@ -118,6 +126,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Ranger 2021 for salein Surrey",
+      "vin": "1FTER4FH1MLD61502",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/7683b462bab2.html",
+      "condition": "used",
+      "price": 29684.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 1500 2021 for salein Surrey",
       "vin": "1C6SRFHM3MN693283",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/140983e2a2b8.html",
@@ -198,6 +214,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Tiguan 2022 for salein Surrey",
+      "vin": "3VV4B7AX1NM038536",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/55cad932d812.html",
+      "condition": "used",
+      "price": 28998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Silverado 1500 2023 for salein Surrey",
       "vin": "1GCUDEE87PZ131451",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/cc6ff8d4ba8d.html",
@@ -238,6 +262,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford F-150 Hybrid 2023 for salein Surrey",
+      "vin": "1FTFW1ED9PFA32320",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/9bab42b49d22.html",
+      "condition": "used",
+      "price": 58683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 Lightning 2023 for salein Surrey",
+      "vin": "1FT6W1EV4PWG21283",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/28dc7e7e11c5.html",
+      "condition": "used",
+      "price": 72748.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Mustang Mach-E 2023 for salein Surrey",
       "vin": "3FMTK3SU6PMA59128",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/544b3c31378d.html",
@@ -246,11 +286,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Super Duty F-350 SRW 2023 for salein Surrey",
+      "vin": "1FT8W3BT7PEC39293",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/f15cd0f8d770.html",
+      "condition": "used",
+      "price": 66773.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "GMC Sierra 1500 2023 for salein Surrey",
       "vin": "3GTPUCEK7PG217078",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/9e58729d532a.html",
       "condition": "used",
       "price": 44247.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Express Cargo Van 2024 for salein Surrey",
+      "vin": "1GCWGAF78R1120801",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/82a2fe10500b.html",
+      "condition": "used",
+      "price": 35998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2024 for salein Surrey",
+      "vin": "1FMDE7BH0RLA34459",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/892db92bda01.html",
+      "condition": "used",
+      "price": 44871.0,
       "price_currency": "CAD"
     },
     {
@@ -278,6 +342,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Super Duty F-350 SRW 2024 for salein Surrey",
+      "vin": "1FT8W3BM5REF36168",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/03c05f8802fa.html",
+      "condition": "used",
+      "price": 95998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-450 DRW 2024 for salein Surrey",
+      "vin": "1FT8W4DT9REE24306",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/6b77cd5e57b0.html",
+      "condition": "used",
+      "price": 125530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2024 for salein Surrey",
+      "vin": "3GTUUCE88RG435749",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/a1abae815d7d.html",
+      "condition": "used",
+      "price": 51496.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "GMC Sierra 3500 HD 2024 for salein Surrey",
       "vin": "1GT49WEY5RF202769",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/6970c31eb23f.html",
@@ -286,11 +374,49 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Maverick Hybrid 2025 for salein Surrey",
+      "vin": "3FTTW8J38SRA14721",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/149b6a2ec12b.html",
+      "condition": "used",
+      "price": 38687.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Mustang 2025 for salein Surrey",
       "vin": "1FA6P8R00S5502137",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c1386505e5cb.html",
       "condition": "used",
       "price": 73563.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2026 for salein Surrey",
+      "vin": "1FTFW1RG8TFC09521",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/856a479233c4.html",
+      "condition": "used",
+      "price": 117179.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander 2026 for salein Surrey",
+      "vin": "JA4J4VAB2TZ619070",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/810049492616.html",
+      "condition": "used",
+      "price": 34046.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Massimo Buck 450 2022 for salein Surrey",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/9a117c00e0e6.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "ODESS DESERTCROSS 1000-6 HVAC 2022 for salein Surrey",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/cd21d9400691.html",
+      "condition": "used",
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -604,7 +730,7 @@
       "make": "Ford",
       "model": "Transit Connect",
       "condition": "used",
-      "price": 29278.0,
+      "price": 33998.0,
       "price_currency": "CAD"
     },
     {
@@ -673,31 +799,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Massimo Buck 450 ",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/9a117c00e0e6.html",
-      "year": 2022,
-      "make": "Massimo",
-      "model": "Buck 450",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 ODESS DESERTCROSS 1000-6 HVACin Surrey",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c61157a50e34.html",
       "year": 2022,
       "make": "ODESS",
       "model": "DESERTCROSS 1000-6 HVACin Surrey",
-      "condition": "used",
-      "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 ODESS DESERTCROSS 1000-6 HVAC ",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/cd21d9400691.html",
-      "year": 2022,
-      "make": "ODESS",
-      "model": "DESERTCROSS 1000-6 HVAC",
       "condition": "used",
       "price": 29995.0,
       "price_currency": "CAD"
@@ -780,17 +886,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 Hybrid ",
-      "vin": "1FTFW1ED6PFC42566",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/9bab42b49d22.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150 Hybrid",
-      "condition": "used",
-      "price": 48978.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford F-150 Lightning Platinum 4WD SuperCrew | Twin Panel Moonroof | Power-Deployable Steps with Black Accent | B&O Audioin Surrey",
       "vin": "1FT6W1EV4PWG21283",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/6a0f2232b29d.html",
@@ -802,17 +897,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 Lightning ",
-      "vin": "1FT6W1EV4PWG21283",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/28dc7e7e11c5.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150 Lightning",
-      "condition": "used",
-      "price": 82554.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Super Duty F-350 SRW XLT 4WD Crew Cab 8' Box | 6.7-litre Power Stroke V8 Turbo Diesel | Upfitter switchesin Surrey",
       "vin": "1FT8W3BT7PEC39293",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/70c107e1ba15.html",
@@ -821,17 +905,6 @@
       "model": "Super Duty",
       "condition": "used",
       "price": 67579.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BT7PEC39293",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/f15cd0f8d770.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 69904.0,
       "price_currency": "CAD"
     },
     {
@@ -898,31 +971,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Express Cargo Van ",
-      "vin": "1GCWGAF78R1120801",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/82a2fe10500b.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Express",
-      "condition": "used",
-      "price": 37298.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford Bronco Big Bend 4 Door 4x4 | Front row heated seats | Ford Co-Pilot360 driver assistin Surrey",
       "vin": "1FMDE7BH0RLA34459",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/df224e0405f8.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 44871.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco ",
-      "vin": "1FMDE7BH0RLA34459",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/892db92bda01.html",
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
@@ -939,17 +990,6 @@
       "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Elevation",
       "condition": "used",
       "price": 51496.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Sierra 1500 ",
-      "vin": "3GTUUCE88RG435749",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/a1abae815d7d.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 54997.0,
       "price_currency": "CAD"
     },
     {
@@ -1005,17 +1045,6 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 97040.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 ",
-      "vin": "1FTFW1RG8TFC09521",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/856a479233c4.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 118998.0,
       "price_currency": "CAD"
     },
     {
@@ -1662,7 +1691,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 36482.0,
+      "price": 34046.0,
       "price_currency": "CAD"
     },
     {
@@ -1674,17 +1703,6 @@
       "model": "Outlander",
       "condition": "used",
       "price": 36246.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander ",
-      "vin": "JA4J4VAB2TZ619070",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/810049492616.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 36482.0,
       "price_currency": "CAD"
     },
     {
