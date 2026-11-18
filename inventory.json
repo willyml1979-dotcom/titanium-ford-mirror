@@ -1,6 +1,6 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-11-18T10:37:23",
+  "generated_at": "2026-11-18T10:41:06",
   "vehicle_count": 183,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1110,25 +1110,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Explorer ",
+      "name": "2026 Ford Explorerin Surrey",
       "vin": "1FMWK8GC1TGA82587",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/7aed2c94a464.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer",
+      "model": "Explorerin Surrey",
       "condition": "new",
-      "price": 73980.0,
+      "price": 51245.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 ",
+      "name": "2026 Ford F-150in Surrey",
       "vin": "1FTEW2L56TFA91218",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/28cb3c45a372.html",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150",
+      "model": "F-150in Surrey",
       "condition": "new",
-      "price": 73150.0,
+      "price": 49485.0,
       "price_currency": "CAD"
     },
     {
@@ -1142,40 +1142,41 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick ",
+      "name": "2026 Ford Maverickin Surrey",
       "vin": "3FTCW8TA4TRB26879",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/fa471d417fbd.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Maverick",
+      "model": "Maverickin Surrey",
       "condition": "new",
-      "price": 47165.0,
+      "price": 44495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick ",
+      "name": "2026 Ford Maverick Hybridin Surrey",
       "vin": "3FTTW8BA6TRB66804",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/b58ca8ef4ee6.html",
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
       "condition": "new",
-      "price": 40495.0,
+      "price": 38195.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang ",
+      "name": "2026 Ford Mustangin Surrey",
       "vin": "1FA6P8THXT5130130",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/e4fe953873bd.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang",
+      "model": "Mustangin Surrey",
       "condition": "new",
-      "price": 63370.0,
+      "price": 39425.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Surrey",
+      "vin": "1FAGP8UH6T5132671",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/58fbfc7342e3.html",
       "year": 2026,
       "make": "Ford",
@@ -1185,25 +1186,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E ",
-      "vin": "3FMTK1S53TMA23856",
+      "name": "2026 Ford Mustang Mach-Ein Surrey",
+      "vin": "3FMTK1S53TMA28989",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/af33c59961d7.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Mach-E",
+      "model": "Mustang",
       "condition": "new",
-      "price": 48535.0,
+      "price": 46590.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger ",
+      "name": "2026 Ford Rangerin Surrey",
       "vin": "1FTER4HPXTLE13518",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/1723de636ed2.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger",
+      "model": "Rangerin Surrey",
       "condition": "new",
-      "price": 60115.0,
+      "price": 45065.0,
       "price_currency": "CAD"
     },
     {
@@ -1213,7 +1214,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 60034.0,
+      "price": 64034.0,
       "price_currency": "CAD"
     },
     {
@@ -1223,18 +1224,18 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 63280.0,
+      "price": 67280.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Super Duty F-350 SRW ",
+      "name": "2026 Ford Super Duty F-350 SRWin Surrey",
       "vin": "1FT8W3BT6TEF41619",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/c515a3e69a94.html",
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 92509.0,
+      "price": 66534.0,
       "price_currency": "CAD"
     },
     {
