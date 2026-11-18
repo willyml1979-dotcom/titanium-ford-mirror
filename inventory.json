@@ -1,6 +1,6 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-11-17T10:44:19",
+  "generated_at": "2026-11-18T01:26:16",
   "vehicle_count": 180,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -134,11 +134,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford F-150 2022 for salein Surrey",
+      "vin": "1FTFW1E54NFA31470",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/a0cef92879a0.html",
+      "condition": "used",
+      "price": 39316.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 Hybrid 2022 for salein Surrey",
+      "vin": "1FTFW1ED4NFB15487",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/dcdb5806248f.html",
+      "condition": "used",
+      "price": 47145.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 Lightning 2022 for salein Surrey",
+      "vin": "1FTVW1EL6NWG08848",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/5d57e284e65d.html",
+      "condition": "used",
+      "price": 57457.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Transit Connect Wagon 2022 for salein Surrey",
+      "vin": "NM0GS9E25N1542409",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/dfacbbb86e40.html",
+      "condition": "used",
+      "price": 33998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Kia RIO 2022 for salein Surrey",
       "vin": "3KPA25AD9NE505370",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/3a55f6ad8886.html",
       "condition": "used",
       "price": 14842.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lincoln Navigator 2022 for salein Surrey",
+      "vin": "5LMJJ3LT4NEL02905",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/75c332e90885.html",
+      "condition": "used",
+      "price": 57998.0,
       "price_currency": "CAD"
     },
     {
@@ -150,11 +190,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Toyota RAV4 2022 for salein Surrey",
+      "vin": "2T3D1RFV0NW276266",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/710dcab20928.html",
+      "condition": "used",
+      "price": 39998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Silverado 1500 2023 for salein Surrey",
       "vin": "1GCUDEE87PZ131451",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/cc6ff8d4ba8d.html",
       "condition": "used",
       "price": 42083.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2023 for salein Surrey",
+      "vin": "1FMEE5DP9PLB03465",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/5081b199e663.html",
+      "condition": "used",
+      "price": 56949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2023 for salein Surrey",
+      "vin": "3FMCR9C61PRD33059",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/942e6bae0920.html",
+      "condition": "used",
+      "price": 31172.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2023 for salein Surrey",
+      "vin": "1FMCU9GN2PUA67723",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/034c594cc283.html",
+      "condition": "used",
+      "price": 24082.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2023 for salein Surrey",
+      "vin": "1FTEW1EP2PKD58005",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/636c1aab7299.html",
+      "condition": "used",
+      "price": 49531.0,
       "price_currency": "CAD"
     },
     {
@@ -373,7 +453,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 43296.0,
+      "price": 42272.0,
       "price_currency": "CAD"
     },
     {
@@ -487,28 +567,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford F-150 ",
-      "vin": "1FTFW1E54NFA31470",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/a0cef92879a0.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 44727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 Hybrid ",
-      "vin": "1FTFW1ED2NFB07680",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/dcdb5806248f.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150 Hybrid",
-      "condition": "used",
-      "price": 51567.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford F-150 Lightning LARIAT 4WD SuperCrew | Standard Range | Ford Co-Pilot360 Active 2.0 | B&O Audio Systemin Surrey",
       "vin": "1FTVW1EL6NWG08848",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/13a0e35a1e31.html",
@@ -531,34 +589,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford F-150 Lightning ",
-      "vin": "1FTVW1EL6NWG08848",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/5d57e284e65d.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150 Lightning",
-      "condition": "used",
-      "price": 59155.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford Transit Connect Wagon XL w/Dual Sliding Doors | Low KM | No Accidents | Hard to findin Surrey",
       "vin": "NM0GS9E25N1542409",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/1534b0cf96df.html",
       "year": 2022,
       "make": "Ford",
       "model": "Transit Connect",
-      "condition": "used",
-      "price": 29278.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Transit Connect Wagon ",
-      "vin": "NM0GS9E25N1542409",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/dfacbbb86e40.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Transit Connect Wagon",
       "condition": "used",
       "price": 29278.0,
       "price_currency": "CAD"
@@ -611,17 +647,6 @@
       "name": "2022 Lincoln Navigator Reserve 4x4 | Heated and ventilated front seats | Second row captain's seats with consolein Surrey",
       "vin": "5LMJJ3LT4NEL02905",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/705124ad0c78.html",
-      "year": 2022,
-      "make": "Lincoln",
-      "model": "Navigator",
-      "condition": "used",
-      "price": 57998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Lincoln Navigator ",
-      "vin": "5LMJJ3LT4NEL02905",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/75c332e90885.html",
       "year": 2022,
       "make": "Lincoln",
       "model": "Navigator",
@@ -699,35 +724,13 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 41548.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Toyota RAV4 ",
-      "vin": "2T3D1RFV0NW276266",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/710dcab20928.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 41548.0,
+      "price": 39998.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023 Ford Bronco Wildtrak 4 Door Advanced 4x4 | Sasquatch Package with front and rear locking differentialsin Surrey",
       "vin": "1FMEE5DP9PLB03465",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/49a67e6a37cb.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 56949.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Bronco ",
-      "vin": "1FMEE5DP9PLB03465",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/5081b199e663.html",
       "year": 2023,
       "make": "Ford",
       "model": "Bronco",
@@ -744,28 +747,6 @@
       "model": "Bronco Sport",
       "condition": "used",
       "price": 31172.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Bronco Sport ",
-      "vin": "3FMCR9C61PRD33059",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/942e6bae0920.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 32893.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Escape ",
-      "vin": "1FMCU9GN2PUA67723",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/034c594cc283.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 25998.0,
       "price_currency": "CAD"
     },
     {
@@ -791,17 +772,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTEW1EP8PFC89748",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/636c1aab7299.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 51873.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford F-150 Hybrid ",
       "vin": "1FTFW1ED6PFC42566",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/9bab42b49d22.html",
@@ -820,7 +790,7 @@
       "make": "Ford",
       "model": "F-150 Lightning",
       "condition": "used",
-      "price": 82554.0,
+      "price": 72748.0,
       "price_currency": "CAD"
     },
     {
