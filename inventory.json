@@ -1,7 +1,7 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-11-18T10:41:06",
-  "vehicle_count": 183,
+  "generated_at": "2026-11-18T21:01:32",
+  "vehicle_count": 184,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -22,6 +22,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford F-150 2016 for salein Surrey",
+      "vin": "1FTEW1EG9GFA40780",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b7f1a45e2406.html",
+      "condition": "used",
+      "price": 25798.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 3 Series 2017 for salein Surrey",
+      "vin": "WBA8Z9C55HG452823",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c00dfb56abc2.html",
+      "condition": "used",
+      "price": 19987.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Super Duty F-350 SRW 2017 for salein Surrey",
       "vin": "1FT8W3BT2HED63067",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/ede207813fc2.html",
@@ -38,11 +54,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Porsche Panamera 2018 for salein Surrey",
+      "vin": "WP0AA2A74JL121347",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/055927daecf9.html",
+      "condition": "used",
+      "price": 56398.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Cadillac XT4 2019 for salein Surrey",
       "vin": "1GYFZFR49KF194238",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b8e2cef1a498.html",
       "condition": "used",
       "price": 23888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2019 for salein Surrey",
+      "vin": "1FTEW1EG2KFA70809",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/05ec36d65c3c.html",
+      "condition": "used",
+      "price": 38021.0,
       "price_currency": "CAD"
     },
     {
@@ -67,6 +99,14 @@
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/7edec52ea653.html",
       "condition": "used",
       "price": 39133.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Transit Cargo Van 2020 for salein Surrey",
+      "vin": "1FTBR1Y86LKA73879",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b93f5013b99f.html",
+      "condition": "used",
+      "price": 33195.0,
       "price_currency": "CAD"
     },
     {
@@ -134,6 +174,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Lincoln Navigator 2021 for salein Surrey",
+      "vin": "5LMJJ2LTXMEL18518",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/e845ef6f635a.html",
+      "condition": "used",
+      "price": 59619.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 1500 2021 for salein Surrey",
       "vin": "1C6SRFHM3MN693283",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/140983e2a2b8.html",
@@ -187,6 +235,14 @@
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/3a55f6ad8886.html",
       "condition": "used",
       "price": 14842.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Soul 2022 for salein Surrey",
+      "vin": "KNDJ33AU6N7807040",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b4ba07df8681.html",
+      "condition": "used",
+      "price": 19718.0,
       "price_currency": "CAD"
     },
     {
@@ -420,6 +476,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Segway FUGLEMAN 2023 for salein Surrey",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c27b51de5b39.html",
+      "condition": "used",
+      "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hisun Guardian 750 L 2026 for salein Surrey",
+      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/2d0b80e773fa.html",
+      "condition": "used",
+      "price": 11799.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Escape 2023 for salein Surrey",
       "vin": "1FMCU9GN2PUA67723",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/034c594cc283.html",
@@ -503,17 +573,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Ford F-150 ",
-      "vin": "1FTEW1EG9GFA40780",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b7f1a45e2406.html",
-      "year": 2016,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 26072.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 BMW 3 Series 330i Xdrivein Surrey",
       "vin": "WBA8Z9C55HG452823",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c64d351db475.html",
@@ -521,40 +580,7 @@
       "make": "BMW",
       "model": "3 Series",
       "condition": "used",
-      "price": 19998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 BMW 3 Series ",
-      "vin": "WBA8Z9C55HG452823",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c00dfb56abc2.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "used",
-      "price": 19998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Porsche Panamera ",
-      "vin": "WP0AA2A74JL121347",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/055927daecf9.html",
-      "year": 2018,
-      "make": "Porsche",
-      "model": "Panamera",
-      "condition": "used",
-      "price": 58998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford F-150 ",
-      "vin": "1FTEW1EG2KFA70809",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/05ec36d65c3c.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 39532.0,
+      "price": 19987.0,
       "price_currency": "CAD"
     },
     {
@@ -621,17 +647,6 @@
       "model": "Navigator",
       "condition": "used",
       "price": 59619.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Lincoln Navigator ",
-      "vin": "5LMJJ2LTXMEL18518",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/e845ef6f635a.html",
-      "year": 2021,
-      "make": "Lincoln",
-      "model": "Navigator",
-      "condition": "used",
-      "price": 58769.0,
       "price_currency": "CAD"
     },
     {
@@ -764,17 +779,6 @@
       "model": "F-150 Lightning",
       "condition": "new",
       "price": 59155.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Kia Soul ",
-      "vin": "KNDJ33AU6N7807040",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/b4ba07df8681.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Soul",
-      "condition": "used",
-      "price": 21698.0,
       "price_currency": "CAD"
     },
     {
@@ -945,16 +949,6 @@
       "year": 2023,
       "make": "Segway",
       "model": "FUGLEMANin Surrey",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Segway FUGLEMAN ",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/c27b51de5b39.html",
-      "year": 2023,
-      "make": "Segway",
-      "model": "FUGLEMAN",
       "condition": "used",
       "price": 18995.0,
       "price_currency": "CAD"
@@ -1672,16 +1666,6 @@
       "model": "Guardian 750 Lin Surrey",
       "condition": "used",
       "price": 11499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hisun Guardian 750 L ",
-      "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/used/2d0b80e773fa.html",
-      "year": 2026,
-      "make": "Hisun",
-      "model": "Guardian 750 L",
-      "condition": "used",
-      "price": 11799.0,
       "price_currency": "CAD"
     },
     {
