@@ -1,6 +1,6 @@
 {
   "dealership": "Titanium Ford",
-  "generated_at": "2026-11-18T21:01:32",
+  "generated_at": "2026-11-18T21:05:24",
   "vehicle_count": 184,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -994,7 +994,7 @@
       "make": "Ford",
       "model": "F-150 Hybrid",
       "condition": "new",
-      "price": 95436.0,
+      "price": 89998.0,
       "price_currency": "CAD"
     },
     {
@@ -1027,7 +1027,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 54951.0,
+      "price": 43051.0,
       "price_currency": "CAD"
     },
     {
@@ -1233,14 +1233,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Super Duty F-450 DRW ",
-      "vin": "1FT8W4DTXTEF32327",
+      "name": "2026 Ford Super Duty F-450 DRWin Surrey",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/58a6d6c413b2.html",
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 122979.0,
+      "price": 71210.0,
       "price_currency": "CAD"
     },
     {
@@ -1711,14 +1710,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Explorer ",
+      "name": "2027 Ford Explorerin Surrey",
       "vin": "1FMUK8KH5VGA06321",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/d47a5650f08e.html",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer",
+      "model": "Explorerin Surrey",
       "condition": "new",
-      "price": 67995.0,
+      "price": 55195.0,
       "price_currency": "CAD"
     },
     {
@@ -1728,7 +1727,7 @@
       "make": "Ford",
       "model": "F-150in Surrey",
       "condition": "new",
-      "price": 56485.0,
+      "price": 54985.0,
       "price_currency": "CAD"
     },
     {
@@ -1772,25 +1771,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Super Duty F-350 SRW ",
+      "name": "2027 Ford Super Duty F-350 SRWin Surrey",
       "vin": "1FT8W3BM9VEC17821",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/758ed4aab2c6.html",
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 113094.0,
+      "price": 67534.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Super Duty F-450 DRW ",
+      "name": "2027 Ford Super Duty F-450 DRWin Surrey",
       "vin": "1FT8W4DM6VEC19500",
       "url": "https://willyml1979-dotcom.github.io/titanium-ford-mirror/new/0e0044426590.html",
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 139749.0,
+      "price": 71710.0,
       "price_currency": "CAD"
     }
   ]
